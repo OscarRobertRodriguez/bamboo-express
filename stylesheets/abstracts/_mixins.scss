@@ -1,0 +1,15 @@
+
+
+
+@mixin push--auto {
+	margin: {
+		left: auto;
+		right: auto;
+	}
+}
+
+
+@mixin size($width, $height: $width) {
+	width: $width;
+	height: $height;
+}
