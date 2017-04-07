@@ -1,0 +1,24 @@
+
+
+
+
+.or-l-main {
+	height: 85vh;
+}
+
+
+.or-l-main-paragraph {
+	padding: 20px;
+	height: 100%;
+
+	@media (max-width: 800px) {
+		height: auto;
+	}
+}
+
+.or-l-main-image {
+	height: 100%;
+		@media (max-width: 800px) {
+		height: auto;
+	}
+}

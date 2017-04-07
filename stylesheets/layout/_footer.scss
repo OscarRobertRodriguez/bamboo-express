@@ -1,0 +1,19 @@
+
+
+.or-l-footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 5vh;
+	background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.or-l-footer-copyright {
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}

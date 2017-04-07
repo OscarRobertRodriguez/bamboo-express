@@ -1,0 +1,66 @@
+.or-l-header {
+  background: #F8F8F8;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.or-l-header-title {
+  font-size: 4rem;
+  width: 400px;
+  display: flex;
+  justify-content: center; }
+
+.or-l-main {
+  height: 85vh; }
+
+.or-l-main-paragraph {
+  padding: 20px;
+  height: 100%; }
+  @media (max-width: 800px) {
+    .or-l-main-paragraph {
+      height: auto; } }
+
+.or-l-main-image {
+  height: 100%; }
+  @media (max-width: 800px) {
+    .or-l-main-image {
+      height: auto; } }
+
+.or-l-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 5vh;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.or-l-footer-copyright {
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 1px; }
+
+.or-p-main-paragraph {
+  font-size: 4rem;
+  top: 30%;
+  padding: 10px; }
+  @media (max-width: 1000px) {
+    .or-p-main-paragraph {
+      font-size: 2.5rem; } }
+
+.or-p-main-image {
+  display: block;
+  width: 100%;
+  margin: 0 auto; }
+  @media (max-width: 800px) {
+    .or-p-main-image {
+      width: 100%; } }
+
+.or-p-first-letter {
+  font-size: 5rem; }
+
+/*# sourceMappingURL=main.css.map */

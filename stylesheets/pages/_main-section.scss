@@ -1,0 +1,29 @@
+
+
+
+.or-p-main-paragraph {
+  font-size: 4rem;
+  top: 30%;
+  padding: 10px;
+  @media (max-width: 1000px) {
+		font-size: 2.5rem;
+
+	}
+}
+
+
+
+.or-p-main-image {
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+
+	@media (max-width: 800px) {
+		width: 100%;
+	}
+}
+
+
+.or-p-first-letter {
+	font-size: 5rem;
+}
